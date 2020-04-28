@@ -7,6 +7,7 @@ This template is *not* intended for library generation and neither does it focus
 
 ### Makefile
 This amazing make file is a modification provided by [mbcrawfo](https://github.com/mbcrawfo).
+
 Which can be found [here](https://github.com/mbcrawfo/GenericMakefile)
 
 ### VS Code
@@ -16,8 +17,10 @@ This template also includes a .vscode setup for automatically being able to run 
 
 ### VCPKG
 There is a version of this template with the use of [vcpk](https://github.com/microsoft/vcpkg).
+
 Which can be found [here]()
 
 ### Library Template
 There is a version of this template which is intended as a good place to develop and test 3rd party libraries.
+
 Which can be found [here]()
